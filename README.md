@@ -25,5 +25,7 @@ This project implements a scalable ETL pipeline using Apache Spark on Databricks
 2. Run cells sequentially
 3. View outputs using display()
 
+Updated using Git workflow
+
 ## Author
 Aishwarya R

@@ -1,7 +1,7 @@
-# IoT Data ETL Pipeline using Apache Spark
+# Scalable Smart Traffic Data Analytics with Anomaly Detection using Apache Spark (Databricks, IoT ETL Pipeline)
 
 ## Overview
-This project implements a scalable ETL pipeline using Apache Spark on Databricks to process large-scale IoT sensor data.
+This project implements a scalable ETL pipeline using Apache Spark on Databricks to process large-scale IoT traffic sensor data.
 
 ## Features
 - Synthetic dataset generation (~1GB)
